@@ -1,0 +1,5 @@
+#Patient Identifier	Sample Identifier	Sequenzierung DNA Panel	TMB Score	MSI	DATE
+#Patient Identifier	Sample Identifier	Sequenzierung DNA Panel	TMB Score	Percent Unstable MSI Sites	DATE
+#STRING	STRING	STRING	STRING	STRING	STRING
+#1	1	1	1	1	1
+PATIENT_ID	SAMPLE_ID	SEQUENCING_DNA_PANEL	TMB_SCORE	MSI	DATE

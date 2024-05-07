@@ -1,0 +1,5 @@
+#Patient Identifier	Birthdate	Sex	Death	Overall survival status	Diagnosis date	Age when diagnosed	ICD10 Code	Diagnosis	ICD-O3-Localisation	ICD-O3-Histology	MTB registration date	Guideline status	Distant metastases	Response to last therapy line	Tumor site
+#Patient identifier	Birthdate	Sex	Date of death	Overall patient survival status	Date of diagnosis	Age at which a condition or disease was first diagnosed	ICD10 Code	Diagnosis	ICD-O3-Localisation	ICD-O3-Histology	MTB registration date	Leitlinienstatus Description	Distant metastases (spread of disease)	Response to last therapy line	Tumor site
+#STRING	STRING	STRING	STRING	STRING	STRING	NUMBER	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+#1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+PATIENT_ID	BIRTHDATE	SEX	DEATH_DATE	OS_STATUS	DIAGNOSIS_DATE	AGE	ICD_10_CODE	DIAGNOSIS	ICD_03_LOCALISATION	ICD_03_HISTOLOGY	DATE_MTB_REGISTRATION	GUIDELINE_STATUS_DESC	DISTANT_METASTASES	RESPONSE	TUMOR_SITE
